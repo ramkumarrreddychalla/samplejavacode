@@ -21,7 +21,7 @@ public class Wrapper {
 		String firstvalue = (String)list.get(0);
 		int secondval = (int)list.get(1);
 		
-		Integer.parseInt(s);
+		//Integer.parseInt(s);
 		Integer.valueOf(secondval);
 		
 		for(Object x : list) {

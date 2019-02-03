@@ -24,7 +24,7 @@ public class Test{
 	  
 	  String s = "123";
 	  
-	  String s2 = "123";   321
+	  String s2 = "123";
 
 	  
 	  String s3 = new String("1255553");

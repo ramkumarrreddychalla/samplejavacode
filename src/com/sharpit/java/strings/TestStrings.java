@@ -24,17 +24,9 @@ public class TestStrings {
         
         str = str + "djdjd";
         
-        String xyz = "jddjdj"
+        String xyz = "jddjdj";
         		String abc = "jddjdj";
-        
-        2 + 3 = 5
-        		
-        		str = null;
-        		
-        		create a string str ;
-                createa a new string with apeend value
-                assing back to str
-        
+
         
 		
 		
