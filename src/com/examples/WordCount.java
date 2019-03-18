@@ -171,3 +171,29 @@ public class WordCount{
 
 }
 
+class CompareMapVo implements Comparable<CompareMapVo> {
+
+    public int value;
+    public String key;
+
+    public CompareMapVo(int value, String key) {
+        this.value = value;
+        this.key = key;
+    }
+
+    /**
+     *  for decending order using value
+     * @param arg0
+     * @return
+     */
+    @Override
+    public int compareTo(CompareMapVo arg0) {
+        // TODO Auto-generated method stub
+        return this.value < arg0.value ? 1 : this.value > arg0.value ? -1 : 0;
+    }
+
+    public String toString() {
+        return this.value + " " + this.key;
+    }
+}
+
