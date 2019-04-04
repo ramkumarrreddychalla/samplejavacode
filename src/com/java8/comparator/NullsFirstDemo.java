@@ -1,5 +1,7 @@
 package com.java8.comparator;
 
+import com.java8.Student;
+
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.Comparator;

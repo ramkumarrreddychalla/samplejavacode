@@ -1,4 +1,6 @@
-package com.java8.comparator;
+package com.java8;
+
+import com.java8.comparator.School;
 
 import java.util.Arrays;
 import java.util.List;
